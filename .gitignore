@@ -1,2 +1,6 @@
 ***_dataset
 **env
+# Salidas de scripts/train.sh y scripts/test.sh
+checkpoints/
+results/
+logs/
